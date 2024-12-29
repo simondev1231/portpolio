@@ -1,23 +1,16 @@
 [
     {
         "id": 1,
-        "title": "Higher School Graduation",
-        "meta": "Mihajlo Pupin.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2016 - 2018"
-    },
-    {
-        "id": 2,
         "title": "Bachelor of Technology (BTech)",
         "meta": "Univerzitet u Novom Sadu.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
+        "text": "Web Development, Webflow, UX|UI, Responsive Design, HTML, CSS, Javascript,Python. SQL, NoSQL",
         "year": "2019 - 2022"
     },
     {
-        "id": 3,
+        "id": 2,
         "title": "Bachelor of Laws (LLB)",
         "meta": "Univerzitet u Novom Sadu.",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.",
-        "year": "2021 - 2024"
+        "text": "React, Node.js, Express.js, Next.js, MongoDB, PostgreSQL, Django, BLockchain, Solana, Etherium, CryptoCurrency, AI, ChatGPT4 ",
+        "year": "2021 - Current"
     }
 ]

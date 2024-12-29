@@ -11,7 +11,12 @@ const TimelineItem = ({ timeline: { title, meta, text, year } }) => {
                 </span>
                 <h5 className="mb-0 text-primary">{title}</h5>
                 <p className="mb-2 text-heading">{meta}</p>
-                <p>{text}</p>
+                {Array.isArray(text) ? (
+                    Array.isArray(text) &&
+                    text.map((item, i) => <p key={i}>🔹{item}</p>)
+                ) : (
+                    <p>{text}</p>
+                )}
             </div>
         </div>
     );

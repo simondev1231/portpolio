@@ -18,5 +18,10 @@
         "id": 4,
         "title": "Node Js",
         "value": "node"
+    },
+    {
+        "id": 5,
+        "title": "Wordpress",
+        "value": "wordpress"
     }
 ]

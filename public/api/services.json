@@ -2,19 +2,19 @@
     {
         "id": 1,
         "title": "Ui/Ux Design",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
+        "text": "Responsive Design, Mobile App Design, Adobe XD, Illustrator, Figma",
         "icon": "/icons/quill-pen-line.svg"
     },
     {
         "id": 2,
         "title": "Web Development",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
+        "text": "Webflow, WordPress, Mern Stack, Angualr, Vue, Blockchain, AI, GPT4, ASP.NET, Azure Devops, API Integration, Amazon Web Service, Saas, Laravel, Mysql, Sequalize, PostgreSQL, MongoDB, NoSQL",
         "icon": "/icons/code-s-slash-line.svg"
     },
     {
         "id": 3,
         "title": "Mobile App Development",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Augue diam etiam venenatis mi tristique amet cras diam etiam.",
+        "text": "React Native, Lonic, Kotlin, Ruby on Rails",
         "icon": "/icons/smartphone-line.svg"
     }
 ]

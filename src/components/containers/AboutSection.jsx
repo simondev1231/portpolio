@@ -52,62 +52,7 @@ const AboutSection = () => {
 						Hi, I am <span className="text-primary">{data.fullName}</span>
 					</h3>
 					<ul className="styledlist">
-						{data.firstName && (
-							<li className="text-lg">
-								<strong className="inline-block min-w-[120px] font-medium">
-									First Name{" "}
-								</strong>
-								: {data.firstName}
-							</li>
-						)}
-						{data.lastName && (
-							<li className="text-lg">
-								<strong className="inline-block min-w-[120px] font-medium">
-									Last Name{" "}
-								</strong>
-								: {data.lastName}
-							</li>
-						)}
-						{data.age && (
-							<li className="text-lg">
-								<strong className="inline-block min-w-[120px] font-medium">
-									Age{" "}
-								</strong>
-								: {data.age} years
-							</li>
-						)}
-						{data.nationality && (
-							<li className="text-lg">
-								<strong className="inline-block min-w-[120px] font-medium">
-									Nationality{" "}
-								</strong>
-								: {data.nationality}
-							</li>
-						)}
-						{data.languages.length ? (
-							<li className="text-lg">
-								<strong className="inline-block min-w-[120px] font-medium">
-									Languages{" "}
-								</strong>
-								: {data.languages.join(", ")}
-							</li>
-						) : null}
-						{data.address && (
-							<li className="text-lg">
-								<strong className="inline-block min-w-[120px] font-medium">
-									Address{" "}
-								</strong>
-								: {data.address}
-							</li>
-						)}
-						{data.freelance && (
-							<li className="text-lg">
-								<strong className="inline-block min-w-[120px] font-medium">
-									Freelance{" "}
-								</strong>
-								: {data.freelance}
-							</li>
-						)}
+						If you want to know more about me, please read this resume.
 					</ul>
 					<a href="/resume.pdf" className="btn mt-3">
 						<span>Download Resume</span>
